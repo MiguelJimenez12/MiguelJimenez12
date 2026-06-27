@@ -1,6 +1,6 @@
 ## Hi I'm Miguel👋
 
-🎓 Computer Science at UNAM.<br/>
+🎓 Computer Science student at UNAM.<br/>
 💻 Passionate about computing in general.<br/>
 
 
